@@ -1,0 +1,24 @@
+---
+title: "An interactive poster on the future of Western Baltic cod"
+format: html
+---
+
+## Abstract
+
+Western Baltic cod was once supporting an important fishery on the 
+German and Danish coasts. Recently the stock collapsed with 
+catastrophic implications for local social-ecological systems. In 
+another study we conducted a management strategy evaluation (MSE) 
+exercise that uses a climate-ready, age-structured single-species 
+operating model for Western Baltic cod. The model uses temperature 
+projections (2022-2099) for the Western Baltic Sea based on 
+representative concentration pathway (RCP)4.5 and RCP8.5 emission 
+scenarios. Temperature trajectories serve as climate forcing in two 
+different environmentally-sensitive stock-recruitment functions that 
+represent historical and recent productivity conditions for Western 
+Baltic cod. We here provide an interactive tool to explore potential 
+futures of Western Baltic cod that allows to explore the influence of 
+productivity assumptions, global emission senarios and fisheries 
+management strategies. The tool will serve as a means to further 
+discussions on the measures that need to be taken to adapt the Western 
+Baltic fisheries to the effects of climate change. 
