@@ -27,3 +27,5 @@ productivity assumptions, global emission senarios and fisheries
 management strategies. The tool will serve as a means to further 
 discussions on the measures that need to be taken to adapt the Western 
 Baltic fisheries to the effects of climate change. 
+
+Start now by going to the fixed data tab.
