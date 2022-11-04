@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "benchmark-test.html",
+    "href": "benchmark-test.html",
+    "title": "Benchmarking test",
+    "section": "",
+    "text": "To test whether the benchmarking system helps to reach sustainable stock levels, we have run an analysis where the fishing limits are adapted every five years.\n\nDo regular benchmark assessments help improve management to sustainability? Is a more precautionary approach more resilient?\nPlease select the scenarios:\n\nRCP 8.5, lim. prod., Fmsy * 50%\nRCP 8.5, lim. prod., Fmsy * 75%\nRCP 8.5, lim. prod., Fmsy * 100%\n\n\n\n\n\n\n\nCompared to the previous exercise, where even the lowest fishing pressure failed to reach for longer time periods sustainable stock levels, the benchmarking system results in a higher spawning stock biomass reaching in the beginning of the assessed time period levels above the respective MSY Btrigger (except for the 100 % scenario). A more precautionary approach e.g. the 50 % scenario, does in fact lead to a higher SSB, thus it can be considered as more climate-resilient. But to the end of the century all scenarios show a decreasing trend.\nNote that in this model only a limited productivity is incorporated, as we assume it better reflects the current situation."
+  },
+  {
+    "objectID": "f-management.html",
+    "href": "f-management.html",
+    "title": "Fishing management",
+    "section": "",
+    "text": "Now we consider the influence of different fishing management scenarios.\n\nWhat level of fishing pressure will enable sustainable management under climate change?\nPlease select the scenarios:\n\nRCP 8.5, lim prod., Fmsy\nRCP 8.5, lim prod., Fpa\nRCP 8.5, lim prod., Flim\n\n\n\n\n\n\n\n\nThe F MSY scenario results in the highest SSB values, nevertheless it is only for a sort time period above the threshold indicating sustainable stock levels. All other scenarios fail to reach sustainable levels within the considered time period. If you want you can compare these result to the RCP 4.5, which represents an intermediate scenario.  To answer the other questions from the poster please select in the navigation bar on top of this page the tab “Dynamic data”."
+  },
+  {
+    "objectID": "fullplots.html",
+    "href": "fullplots.html",
+    "title": "Full results",
+    "section": "",
+    "text": "Here you can explore all results of the modelling exercise on your own.\nBenchmarking:\n\n\n\n\n\n\n\n\nFixed fishing pressure:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An interactive poster on the future of Western Baltic cod (Gadus morhua)",
+    "section": "",
+    "text": "On this website you can explore the results of an age-structured population model for Western Baltic cod. The model incorporates two temperature projections based on the RCP 4.5 and 8.5 emission scenarios. Fishing pressure has been assessed with a set of fixed values and a benchmarking system.\nTo show you some highlights of our analysis and the usage of the interactive plots please go in the navigation bar at the top of this page to “Static data”.\nHave fun!"
+  },
+  {
+    "objectID": "precautionary-approach.html",
+    "href": "precautionary-approach.html",
+    "title": "Level of precaution",
+    "section": "",
+    "text": "Does a more precautionary approach enable higher catches in the long term? What compromises results in the short term?\nPlease select the scenarios:\n\nRCP 8.5, lim. prod., Fmsy * 50%\nRCP 8.5, lim. prod., Fmsy * 75%\nRCP 8.5, lim. prod., Fmsy * 100%\n\n\n\n\n\n\n\nIn the long term the scenario with the highest levels of catch is the 75 % scenario, thus a more precautionary approach will enable higher catches. In the short term the 100 % scenario will as expected lead to higher catches. But all scenarios show in the second half of the century a decreasing trend."
+  },
+  {
+    "objectID": "prod-regime.html",
+    "href": "prod-regime.html",
+    "title": "Productivity regime",
+    "section": "",
+    "text": "With this modelling exercise we evaluated the effects of a fixed fishing pressure on the Western Baltic cod population until the end of the century. With the plots beneath you can find the answers to the first to questions on the poster:\n What implications do differing perceptions of stock productivity have on the future stock development?\nYou can see in the plot the observed time series, to answer the question please select in the legend on the right the scenarios:\n\nRCP 8.5, full prod., Fmsy\nRCP 8.5, lim prod., Fmsy\n\nTip: You can add / select the scenarios by simply clicking on the corresponding legend entry. If you want to isolate one scenario double-click on the legend entry. \n\n\n\n\n\n\n Depending on the perceived productivity the spawning stock biomass develops differently. The full productivity scenario considers productivity values from the entire time series, whereas the limited scenario time series only takes into account the last XX years. According to recent studies the Western Baltic cod stock is locked in a low productivity regime, thus the limited productivity scenario will probably lead to more realistic results, reflecting the currently depressed stock status.\n To find out about the influence of fishing management scenarios please click on the arrow."
+  },
+  {
+    "objectID": "recovery-time.html",
+    "href": "recovery-time.html",
+    "title": "Recovery time",
+    "section": "",
+    "text": "What catch limitation is required to enable stock recovery? How does the level of precaution limit catch?\n\nWe will explore the influence of the scenarios from the previous exercise, please select again:\n\nRCP 8.5, lim. prod., Fmsy * 50%\nRCP 8.5, lim. prod., Fmsy * 75%\nRCP 8.5, lim. prod., Fmsy * 100%\n\n\n\n\n\n\n\nTo enable recovery of the stock considering a conservative emission scenario, a catch of 0 is necessary for a few years. After this short time catches can successively increase, as the stock will get larger again."
+  }
+]
