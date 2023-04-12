@@ -1,24 +1,13 @@
 ---
-title: "An interactive poster on the future of Western Baltic cod"
-format: html
+title: "An interactive poster on the future of Western Baltic cod <i>(Gadus morhua)</i>"
 ---
 
-## Abstract
+On this website you can explore the results of an age-structured population model for Western Baltic cod. The model is forced with data from temperature projections based on the RCP 4.5 and 8.5 emission scenarios. Two different productivity states, represented by different stock-recruitment functions, were tested. Model output was generated for fishing with constant F~MSY~, F~pa~ and F~lim~, as well as with dynamically-adapted F~MSY~ (via simulated benchmark assessments).
 
-Western Baltic cod was once supporting an important fishery on the 
-German and Danish coasts. Recently the stock collapsed with 
-catastrophic implications for local social-ecological systems. In 
-another study we conducted a management strategy evaluation (MSE) 
-exercise that uses a climate-ready, age-structured single-species 
-operating model for Western Baltic cod. The model uses temperature 
-projections (2022-2099) for the Western Baltic Sea based on 
-representative concentration pathway (RCP)4.5 and RCP8.5 emission 
-scenarios. Temperature trajectories serve as climate forcing in two 
-different environmentally-sensitive stock-recruitment functions that 
-represent historical and recent productivity conditions for Western 
-Baltic cod. We here provide an interactive tool to explore potential 
-futures of Western Baltic cod that allows to explore the influence of 
-productivity assumptions, global emission senarios and fisheries 
-management strategies. The tool will serve as a means to further 
-discussions on the measures that need to be taken to adapt the Western 
-Baltic fisheries to the effects of climate change. 
+To show you some highlights of our analysis and the usage of the interactive plots please go in the navigation bar at the top of this page to [Static data](prod-regime.qmd).
+
+Have fun!
+
+<br> <br> <br> <br> <br>
+
+![](logos/MA.png){width="250"} ![](logos/balt_adapt.png){width="250"} ![](logos/bmbf.png){width="250"} ![](logos/comfort.png){width="250"} ![](logos/eu.png){width="250"} ![](logos/kueno.png){width="250"} ![](logos/ptj.png){width="250"} ![](logos/spaceparti.png){width="250"}\
